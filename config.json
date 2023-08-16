@@ -1,0 +1,24 @@
+{
+  "database2": {
+    "host": "us-cdbr-east-05.cleardb.net",
+    "port": 3306,
+    "user": "b6b55a17c74db8",
+    "password": "8b7698f6",
+    "database": "heroku_91b2a9e1466beee"
+  },
+  "database": {
+    "host": "us-cdbr-east-05.cleardb.net",
+    "port": 3306,
+    "user": "bc85c2db193e79",
+    "password": "1c54c104",
+    "database": "heroku_ef1f6b17c071fe5"
+  },
+  "development": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "user": "root",
+    "password": "",
+    "database": "english-app-db"
+  },
+  "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+}
